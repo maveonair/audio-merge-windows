@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AudioMerge.App (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AudioMerge.App (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
