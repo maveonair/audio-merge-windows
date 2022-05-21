@@ -53,6 +53,9 @@ jobs:
     runs-on: windows-latest
 
     env:
+      DOTNET_CLI_TELEMETRY_OPTOUT: 1
+
+    env:
       Solution_Name: AudioMerge.sln
       Test_Project_Path: AudioMerge.Tests\AudioMerge.Tests.csproj
       Wap_Project_Directory: AudioMerge.App
