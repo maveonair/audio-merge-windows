@@ -8,7 +8,7 @@
 
   <Identity
     Name="64cbada5-2cfd-45af-bc64-64845e117a88"
-    Publisher="CN=Fabian"
+    Publisher="CN=Fabian Mettler"
     Version="1.0.0.0" />
 
   <Properties>
