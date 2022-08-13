@@ -1,6 +1,6 @@
 ﻿# AudioMerge
 
-With AudioMerge you can combine multiple audio files into one MPEG4 audio file.
+AudioMerge lets you combine many audio files into one MPEG4 audio file.
 
 ![App](docs/app.png)
 
